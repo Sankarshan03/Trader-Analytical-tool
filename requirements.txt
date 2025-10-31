@@ -1,0 +1,21 @@
+# Core
+python-dotenv>=1.0.0
+websocket-client>=1.6.1
+pandas>=2.0.3
+numpy>=1.24.3
+scipy>=1.10.1
+statsmodels>=0.14.0
+
+# Database
+sqlalchemy>=2.0.0
+alembic>=1.12.0
+
+# Web & API
+fastapi>=0.95.0
+uvicorn>=0.22.0
+python-multipart>=0.0.6
+
+# Frontend
+streamlit>=1.22.0
+plotly>=5.15.0
+streamlit-aggrid>=0.3.4
